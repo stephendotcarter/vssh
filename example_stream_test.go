@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yahoo/vssh"
+	"github.com/stephendotcarter/vssh"
 )
 
 func Example_stream() {
